@@ -8,8 +8,8 @@ acrylic. Also, I have become a sort of human GPS: a valuable asset to friends an
 If this goes well it will be my sincere pleasure to help write the documentation that assists others in using Mapbox's diverse
 toolset to create the maps of tomorrow.
 
-[Writing Exercise](https://mayormcmatt.github.io/mb-doc-test/writing-exercise.html)
-[Writing Reflection](https://mayormcmatt.github.io/mb-doc-test/writing-reflection.html)
+- [Writing Exercise](https://mayormcmatt.github.io/mb-doc-test/writing-exercise.html)
+- [Writing Reflection](https://mayormcmatt.github.io/mb-doc-test/writing-reflection.html)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
