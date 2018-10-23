@@ -1,6 +1,15 @@
-## Welcome to GitHub Pages
+## Hello, Mapbox!
 
-You can use the [editor on GitHub](https://github.com/mayormcmatt/mb-doc-test/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Thank you for this opportunity to present my skills to you; truly, it is my hope that they are up to your expectations.
+Maps are very special objects to me: my exposure and near-obsession with them as a child helped me see the art and
+craftsmanship in them so much that I have painted maps of some of my favorite neightborhoods freehand, in
+acrylic. Also, I have become a sort of human GPS: a valuable asset to friends and family on trips.
+
+If this goes well it will be my sincere pleasure to help write the documentation that assists others in using Mapbox's diverse
+toolset to create the maps of tomorrow.
+
+[Writing Exercise](https://mayormcmatt.github.io/mb-doc-test/writing-exercise.html)
+[Writing Reflection](https://mayormcmatt.github.io/mb-doc-test/writing-reflection.html)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
@@ -27,11 +36,3 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mayormcmatt/mb-doc-test/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
