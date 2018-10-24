@@ -67,5 +67,6 @@ GeoJSON file from the Mapbox Studio tilesets page,  exporting the updated data a
 tileset
 
 ---
+---
 
-[#### Continue to Writing Reflection](https://mayormcmatt.github.io/mb-doc-test/writing-reflection.html)
+[Continue to Writing Reflection](https://mayormcmatt.github.io/mb-doc-test/writing-reflection.html)
