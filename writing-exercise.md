@@ -4,7 +4,7 @@
 ![Image of Mapbox Studio topics covered in this section, uploads, tilesets, datasets](https://raw.githubusercontent.com/mayormcmatt/mb-doc-test/master/mb-topics.png)
 
 - Mapbox maps are composed of tilesets; they are an essential part of a custom map
-- Datasets are the geospatial data that underlie tilesets
+- Datasets are the geospatial data that underlie tilesets; they can be created and edited graphically in Mapbox Studio
 - Both datasets and tilesets can be imported into Mapbox Studio, but only the former can be edited
 
 ## Tilesets Overview
