@@ -18,9 +18,8 @@ maps fast and efficient.
 # Datasets vs. Tilesets
 ### Learn to choose the right tool for creating your custom map in Mapbox Studio
 
----
+![Image of Mapbox Studio topics covered in this section](https://raw.githubusercontent.com/mayormcmatt/mb-doc-test/master/mb-topics.png)
 
-## The Gist:
 - Mapbox maps are composed of tilesets; they are an essential part of a custom map
 - Datasets are the geospatial data that underlie tilesets
 - Both datasets and tilesets can be imported into Mapbox Studio, but only the former can be edited
@@ -38,7 +37,7 @@ Tilesets come in a number of different file formats &mdash; KML, GPX, MBTiles, a
 from an external source.
 
 What if a Mapbox Studio user wishes to include additional information on top of one of these tileset layers, such as the
-path of an off-trail hike, a property boundry, or unlisted points of interest? For that a new dataset will be necessary.
+path of an off-trail hike, a property boundry, or unlisted points of interest? For that, a new dataset will be necessary.
 
 ## Datasets Overview
 [Datasets](https://www.mapbox.com/studio-manual/reference/datasets/) are a collection of GeoJSON data either imported into
@@ -48,5 +47,5 @@ The dataset editor tool takes much of the intimidation out of creating or
 importing GeoJSON datasets &mdash; it validates imported data, allows for the addition of new features with point, line, and
 polygon drawing tools, and more.
 
-> **Note:** Once data is converted to a tileset, it is no longer editable. To alter the tileset, modify the dataset
-> accordingly and export it as a new tileset.
+It is important to note that once data is converted to a tileset, it is no longer editable. To alter the tileset, modify
+the dataset accordingly and export it as a new tileset.
