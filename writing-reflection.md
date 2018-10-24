@@ -68,3 +68,7 @@ feature that delivers essential information to the reader that I can't recall se
 included two other images of the Tilesets page and of the dataset editor. As stated before, this is not a walkthrough of
 those feature pages, but I did include them in their respective sections for the purpose of orienting the reader should
 they have visited those pages (or do in the future).
+
+---
+
+[#### Back to Main](https://mayormcmatt.github.io/mb-doc-test/main.html)

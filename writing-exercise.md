@@ -65,3 +65,7 @@ updating that data [using the dataset editor
 tool](https://www.mapbox.com/studio-manual/reference/datasets/#dataset-editor) is the best way to proceed. Access the
 GeoJSON file from the Mapbox Studio tilesets page,  exporting the updated data as a new
 tileset
+
+---
+
+[#### Continue to Writing Reflection](https://mayormcmatt.github.io/mb-doc-test/writing-reflection.html)
